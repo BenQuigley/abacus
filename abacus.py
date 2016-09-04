@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 class abacus:
     # Reference: https://www.youtube.com/watch?v=CvsnftXXKdw
     def __init__(self):
